@@ -1,15 +1,15 @@
 {
   "schema_version": "dashboard.v1",
-  "repo": "ta-marketplace-install-test",
+  "repo": "task-assistant",
   "telemetry_version": "v1",
   "generated_at": "2026-01-18T03:41:27.509Z",
   "coverage": {
-    "first_record": "2026-01-15",
+    "first_record": "2026-01-18",
     "last_record": "2026-01-18",
-    "days_present": 2
+    "days_present": 1
   },
   "summary": {
-    "total_events": 5,
+    "total_events": 2,
     "status": "healthy"
   },
   "diagnostics": {
