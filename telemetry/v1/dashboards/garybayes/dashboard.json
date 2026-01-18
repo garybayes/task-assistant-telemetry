@@ -2,21 +2,21 @@
   "schema_version": "dashboard.v1",
   "repo": "garybayes",
   "telemetry_version": "v1",
-  "generated_at": "2026-01-18T03:41:27.508Z",
+  "generated_at": "2026-01-18T23:46:52.762Z",
   "coverage": {
-    "first_record": null,
-    "last_record": null,
-    "days_present": 0
+    "first_record": "2026-01-18",
+    "last_record": "2026-01-18",
+    "days_present": 1
   },
   "summary": {
-    "total_events": 0,
-    "status": "no-telemetry"
+    "total_events": 2,
+    "status": "healthy"
   },
   "diagnostics": {
-    "warnings": [
-      "No telemetry records found"
-    ],
+    "warnings": [],
     "errors": [],
-    "notes": []
+    "notes": [
+      "No destructive actions taken"
+    ]
   }
 }
