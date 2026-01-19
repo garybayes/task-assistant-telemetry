@@ -1,0 +1,2 @@
+žée
+{"schema_version":"1.0","generated_at":"2026-01-19T03:45:41Z","correlation_id":"21124582291-1","source":{"workflow":"engine-dashboard","job":"dashboard"},"entity":{"type":"repository","owner":"garybayes","repo":"task-assistant"},"event":{"category":"dashboard","action":"success","reason":null},"details":{"ok":true,"repo":"task-assistant","summary":"Dashboard rebuilt","total_events":4}}
