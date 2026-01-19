@@ -2,14 +2,14 @@
   "schema_version": "dashboard.v1",
   "repo": "garybayes",
   "telemetry_version": "v1",
-  "generated_at": "2026-01-19T19:05:16.246Z",
+  "generated_at": "2026-01-19T20:42:27.181Z",
   "coverage": {
     "first_record": "2026-01-18",
     "last_record": "2026-01-19",
     "days_present": 2
   },
   "summary": {
-    "total_events": 5,
+    "total_events": 6,
     "status": "healthy"
   },
   "diagnostics": {
