@@ -1,2 +1,0 @@
-žée
-{"schema_version":"1.0","generated_at":"2026-01-18T03:38:45Z","correlation_id":"21105427895-1","source":{"workflow":"engine-dashboard","job":"self-test"},"entity":{"type":"repository","owner":"garybayes","repo":"garybayes/ta-marketplace-install-test"},"event":{"category":"dashboard","action":"success","reason":null},"details":{"tool":"dashboard-self-test","version":"1.0","ok":true,"summary":"Dashboard engine self-test passed"}}
