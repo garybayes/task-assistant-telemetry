@@ -1,0 +1,1 @@
+{"schema_version":"1.0","generated_at":"2026-02-02T05:26:43Z","correlation_id":"21578455538-1","source":{"workflow":"engine-dashboard","job":"dashboard"},"entity":{"type":"repository","owner":"garybayes","repo":"ta-sandbox"},"event":{"category":"dashboard","action":"failed","reason":null},"details":{"ok":false,"date":"2026-02-02","repo":"ta-sandbox","status":"no-telemetry"}}
