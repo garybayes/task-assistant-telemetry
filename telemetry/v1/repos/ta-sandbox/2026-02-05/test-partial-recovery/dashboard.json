@@ -1,0 +1,1 @@
+{"schema_version":"1.0","generated_at":"2026-02-05T18:34:43Z","correlation_id":"test-partial-recovery","source":{"workflow":"engine-dashboard","job":"dashboard"},"entity":{"type":"repository","owner":"garybayes","repo":"ta-sandbox"},"event":{"category":"dashboard","action":"success","reason":null},"details":{"ok":true,"date":"2026-02-05","repo":"ta-sandbox","status":"healthy"}}
